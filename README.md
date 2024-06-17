@@ -13,3 +13,12 @@ remaining amount.**
 **Installing and executing programme**
 
 Download repository and open the html file in the browser, or open in Visual Studio Code to view code.
+
+**Credits**
+https://github.com/sgkeasley
+
+**Functionality screenshots**
+
+![image](https://github.com/sgkeasley/budget/assets/159902419/5670deba-dd41-402f-b4b8-9c256dfb2a0c)
+
+
